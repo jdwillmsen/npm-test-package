@@ -11,5 +11,8 @@
     "npm"
   ],
   "author": "Jake Willmsen",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "@jdwillmsen:registry": "https://npm.pkg.github.com"
+  }
 }
