@@ -1,0 +1,15 @@
+{
+  "name": "@jdwillmsen/npm-test-package",
+  "version": "1.0.0",
+  "description": "This is a test package for exploring GitHub's packages",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "keywords": [
+    "test",
+    "npm"
+  ],
+  "author": "Jake Willmsen",
+  "license": "MIT"
+}
